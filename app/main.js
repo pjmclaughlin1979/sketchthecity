@@ -186,7 +186,7 @@ require([
       // select the scene layers only
       //select the 3D object scene layers only
       const sceneLayers = origWebscene.allLayers.filter(function (layer) {
-        return (layer.type === "scene")&& layer.geometryType =="mesh");
+        return (layer.type === "scene" && layer.geometryType =="mesh");
         
       });
 
