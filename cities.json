@@ -25,5 +25,11 @@
       "id": "b05757525af24d2fb6bcc53534cb3ff1",
       "attribution": "<a href='https://www.openstreetmap.org/copyright' target='_blank'>Data license</a>"
     }
+	  ,
+	{
+      "title": "BelfastAlt",
+      "id": "a89faff960c94dd8970d0c42127f382b",
+      "attribution": "<a href='https://www.openstreetmap.org/copyright' target='_blank'>Data license</a>"
+    }
   ]
 }
